@@ -7,12 +7,12 @@ A major B.Tech project under the *Cloud Computing* domain, focusing on the *desi
 
 ## 👨‍💻 Team Members
 
-| Name               | Role             |   Email                            |
-|--------------------|------------------|----------------------------------|
-| Sayan Shit         | Tech Lead        | sayanshit2017@gmail.com          |
-| Sagar Maity        | Developer        | sagarmaity9749@gmail.com         |
-| Dona Chakraborty   | Documentation    | donachkb@gmail.com               |
-| Ipsita Nag         | UI/UX Designer   | titli.nag04@gmail.com            |
+| Name               | Role             
+|--------------------|------------------
+| Sayan Shit         | Tech Lead        
+| Sagar Maity        | Developer        
+| Dona Chakraborty   | Documentation   
+| Ipsita Nag         | UI/UX Designer   
 
 ---
 
