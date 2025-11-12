@@ -1,19 +1,5 @@
 # 🌿 Energy Efficient Serverless Computing in Cloud Architectures
 
-## 🚀 Project ID: G16
-A major B.Tech project under the *Cloud Computing* domain, focusing on the *design and evaluation of energy-efficient architectures using serverless technologies*. The project addresses rising energy consumption in cloud platforms by leveraging event-driven, auto-scaling serverless models.
-
----
-
-## 👨‍💻 Team Members
-
-| Name               | Role             
-|--------------------|------------------
-| Sayan Shit         | Tech Lead        
-| Sagar Maity        | Developer        
-| Dona Chakraborty   | Documentation   
-| Ipsita Nag         | UI/UX Designer   
-
 ---
 
 ## 🎯 Objective
@@ -86,14 +72,6 @@ energy-efficient-serverless-cloud/
 
 ---
 
-## 🧠 Project Mentor
-
-*Mr. Debasis Mohanty*  
-Assistant Professor, Department of Computer Science & Engineering  
-JIS University, Agarpara
-
----
-
 ## 📚 Research Focus
 
 This project integrates:
@@ -114,11 +92,11 @@ Key research questions include:
 | Task                              | Status       |
 |-----------------------------------|--------------|
 | Proposal Approval                 | ✅ Completed |
-| System Architecture Design        | ⏳ In Progress |
-| Backend Function Development      | ⏳ Pending    |
-| Frontend UI Implementation        | ⏳ Pending    |
-| Integration and Testing           | ⏳ Pending    |
-| Final Submission                  | ⏳ Pending    |
+| System Architecture Design        | ✅ Completed |
+| Backend Function Development      | ✅ Completed   |
+| Frontend UI Implementation        | ✅ Completed   |
+| Integration and Testing           | ✅ Completed   |
+| Final Submission                  | ✅ Completed  |
 
 ---
 
